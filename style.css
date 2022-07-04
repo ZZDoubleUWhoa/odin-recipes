@@ -1,0 +1,10 @@
+body {
+    color: darkmagenta;
+    background-color: grey;
+    font-size: small;
+}
+
+img {
+    height: auto
+    width: 500px    
+}
