@@ -1,10 +1,11 @@
 body {
-    color: darkmagenta;
+    color: beige;
     background-color: grey;
-    font-size: small;
+    font-family: copperplate, cursive, sans-serif, serif;
+    font-size: medium;
 }
 
 img {
-    height: auto
-    width: 500px    
+    height: auto;
+    width: 500px;    
 }
